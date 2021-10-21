@@ -5,7 +5,7 @@
 - Instagram [@g0pher_](https://www.instagram.com/g0pher_/)  
 - Dreamhack [@g0pher](https://dreamhack.io/users/419)  
 
-[![status](https://github-readme-stats.vercel.app/api?username=g0pher98)](https://github.com/anuraghazra/github-readme-stats)  
+[![status](https://github-readme-stats.vercel.app/api?username=g0pher98&show_icons=true&title_color=db61a2&text_color=ddd&icon_color=4d99e8&bg_color=0d1117&border_color=fff&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 🐞 Hunted bug
@@ -27,6 +27,7 @@
 2020 WHITEHAT Contest - Final
 2020 Power of XX - STAFF
 + 2021 Vulnfreak CTF - 8th
++ 2021 KOSPO web service infosec contest - 5th
 ```
 
 📌 I'm at  
