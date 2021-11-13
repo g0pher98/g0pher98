@@ -26,8 +26,9 @@
 2019 SHADOW CTF - 5th
 2020 WHITEHAT Contest - Final
 2020 Power of XX - STAFF
-+ 2021 Vulnfreak CTF - 8th
+2021 Vulnfreak CTF - 8th
 + 2021 KOSPO web service infosec contest - 5th
++ 2021 Woori Bank hacking contest - 1st
 ```
 
 📌 I'm at  
